@@ -298,30 +298,6 @@ body {
   position: relative;
 }
 
-.s1 .carousel-cell:first-child {
-  background: url("../img/background2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.s1 .carousel-cell:nth-child(2) {
-  background: url("../img/background1.jpeg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.s1 .carousel-cell:last-child {
-  background: url("");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
 .s1 .carousel-cell::before {
   content: "";
   position: absolute;
